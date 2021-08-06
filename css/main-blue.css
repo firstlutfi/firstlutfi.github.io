@@ -1766,3 +1766,7 @@ ul.social-links li:last-child a {
 .header-color-main .site-main-menu li.active a:after {
   background-color: #fff;
 }
+.project-name{
+  margin-left: 20px;
+  text-decoration: underline;
+}
