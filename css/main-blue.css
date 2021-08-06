@@ -734,10 +734,10 @@ ul.social-links li:last-child a {
   }
 }
 
-.icons-menu{
-    color: #222 !important;
-    padding-top: 5px;
-    display: block;
+.icons-menu {
+  color: #222 !important;
+  padding-top: 5px;
+  display: block;
 }
 .section-title-block {
   position: relative;
@@ -1766,7 +1766,11 @@ ul.social-links li:last-child a {
 .header-color-main .site-main-menu li.active a:after {
   background-color: #fff;
 }
-.project-name{
+.project-name {
   margin-left: 20px;
   text-decoration: underline;
+}
+th,
+td {
+  border: 1px solid black;
 }
