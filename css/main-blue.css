@@ -859,8 +859,8 @@ ul.social-links li:last-child a {
   text-align: center;
 }
 .service-block img {
-  max-width: 100px;
-  max-height: 74px;
+  max-width: 500px;
+  max-height: 250px;
   margin: 0 0 18px;
 }
 .service-icon {
