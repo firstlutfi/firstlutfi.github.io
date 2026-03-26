@@ -97,7 +97,7 @@
           redirect: 'follow',
         };
 
-        fetch('https://sahabat.pegadaian.co.id/gold/prices/savings', requestOptions)
+        fetch('https://corsproxy.io/?https://sahabat.pegadaian.co.id/gold/prices/savings', requestOptions)
           .then(response => response.json())
           .then(data => document.getElementById('pegadaian-price').textContent = data.data.hargaJual*100)
           .catch(error => console.error('Error:', error));
